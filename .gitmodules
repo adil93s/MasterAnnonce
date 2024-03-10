@@ -1,0 +1,12 @@
+[submodule "webapp"]
+	path = webapp
+	url = https://github.com/adil93s/webapp
+[submodule "auth-service"]
+	path = auth-service
+	url = https://github.com/adil93s/auth-service
+[submodule "domain-service"]
+	path = domain-service
+	url = https://github.com/adil93s/domain-service
+[submodule "db-service"]
+	path = db-service
+	url = https://github.com/adil93s/db-service
